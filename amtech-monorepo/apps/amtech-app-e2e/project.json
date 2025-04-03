@@ -1,0 +1,9 @@
+{
+  "name": "amtech-app-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/amtech-app-e2e/src",
+  "implicitDependencies": ["amtech-app"],
+  "// targets": "to see all targets run: nx show project amtech-app-e2e --web",
+  "targets": {}
+}
