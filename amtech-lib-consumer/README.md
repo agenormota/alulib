@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+Me explique este cenario e monte uma estrategia para reduzir o valor de impostos a serem pagos, salario e dividendos. Deducao fiscal por despesas da empresa, custo carro, escritorio e outras despesas elegiveis, e considere que o salario do socio deve ser o minimo necessario que justifique o seu padrao, possui uma hipoteca de 2100 dolares por mes, mas nao deseja imobilizar muito dinheiro no rrq, nem reer. O objetivo e crescer o patrimonio da empresa para posteriormente crescer o patrimonio pessoal.
